@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.39.2
+Dec 4, 2020
+
+* Return from Kadira.connect if already conncted
+
 ## v2.39.1
 Nov 11, 2020
 
@@ -107,7 +112,7 @@ July 13, 2018
 ## v2.32.1
 June 18, 2018
 
-* Fix error stack trace from method and subscription errors showing as an object 
+* Fix error stack trace from method and subscription errors showing as an object
 
 ## v2.32.0
 May 27, 2018
